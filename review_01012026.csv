@@ -1,0 +1,78 @@
+﻿Status;Article;Year;Study type ;non-PH;Switch to RMST bc of non-PH;Treatment effect;When ;Type;If data-driven;Clearly explained;Explictly written;Disease Type;Value (in months);Analysis type;Multiple tau;RMST/Methods of nonPH;Restricted time;Appendix check
+Included;Alder et al.;2022;RCT;Yes;Yes;;A posteriori;Without justification;;No;Yes;Infectious diseases;;Additional measure of the primary endpoint;Yes;;;
+Included;Ahlgren et al.;2018;Phase III;Yes;Yes;Delayed;A posteriori;Based on clinical consideration;;Yes;Yes;Prostate;60;Additional measure of the primary endpoint;No;;;
+Excluded;Alabas et al. ;2023;Observational study;;;;;;;;;;;;;;;
+Included;Andre et al.;2024;Phase III (interim analysis);Yes;Yes;;A posteriori;Based on clinical consideration;;Yes;Yes;Colorectal;24;Additional measure of the primary endpoint;No;No;No;Yes
+Included;Birtle et al.;2024;Phase III;Yes;Yes;;A posteriori;Without justification;;No;Yes;Urothelial;;Additional measure of the primary endpoint;No;Yes;No;
+Included;Bishton et al.;2020;Phase III;Yes;Yes;;A posteriori;Data-driven;Min max of the obs. time;Yes;Yes;Lymphoma;;Additional measure of the primary endpoint;No;;;
+Included;Blank et al.;2024;Phase III;Yes;Yes;;A posteriori;Data-driven;Min max of the obs. time;Yes;Yes;Melanoma;;Additional measure of the primary endpoint;No;Yes;No;
+Excluded;Cancanelli et al.;2022;Meta-analysis;;;;;;;;;;;;;;;
+Excluded;Chiumente;2020;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Clamp et al.;2019;Phase III;Yes;Yes;;;Without justification;;No;No;Carcinoma;;Additional measure of the primary endpoint;No;;;
+Excluded;Clamp et al.;2022;Same data;;;;;;;;;;;;;;;
+Included;Clarke et al. ;2019;Phase III (long term survival);Yes;Yes;;A posteriori;Without justification;;No;Yes;Prostate;120;Additional measure of the primary endpoint;No;;;
+Included;Connolly et al.;2022;RCT;Yes;Yes;Delayed;;Without justification;;No;No;Not applicable;;Additional measure of the primary endpoint;No;Ýes;No;Yes
+Included;Conroy et al.;2024;Phase III (long term survival);Yes;Yes;;A priori;Based on clinical consideration;;No;Yes;Colorectal;60;Only measure of the primary endpoint;Yes;;;Yes
+Included;Cope et al.;2024;Phase II;Yes;Yes;;A posteriori;Without justification;;No;Yes;Not applicable;;Additional measure of the primary endpoint;Yes;Yes;No;
+Included;D'Amico et al.;2021;RCT;Yes;Yes;;A posteriori;Without justification;;No;Yes;Prostate;120;Additional measure of the primary endpoint;No;No;No;
+Excluded;Desai et al. ;2024;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Ehrmann et al.;2023;RCT;Yes;Yes;;A priori;Based on clinical consideration;;Yes;Yes;Not applicable;;Only measure of the primary endpoint;No;No;No;Yes
+Included;Eisen et al.;2020;Phase III;Yes;Yes;;A posteriori;Without justification;;No;Yes;Carcinoma;;Additional measure of the primary endpoint;No;Yes;Yes;
+Excluded;Fawsitt ;2025;Post hoc analysis;;;;;;;;;;;;;;;
+Excluded;Fukuokaya et al.;2024;Post hoc analysis;;;;;;;;;;;;;;;
+Excluded;Gadbois et al.;2023;RMST was not a measure of the treatment effect;;;;;;;;;;;;;;;
+Excluded;Gilbert et al.;2024;RMST was not a measure of the treatment effect;;;;;;;;;;;;;;;
+Excluded;Gilboa et al.;2021;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Guimaraes et al.;2020;RCT;Not tested;No;;A priori;Based on clinical consideration;;Yes;Yes;Not applicable;;Only measure of the primary endpoint;No;Yes;Yes;Yes
+Included;Gupta;2025;Phase III;Yes;Yes;;A posteriori;Data-driven;Min max of the obs. time;Yes;Yes;;;Only measure of the primary endpoint;No;No;No;
+Excluded;Hamaya et al.;2024;Observational study;;;;;;;;;;;;;;;
+Included;Han et al.;2024;Phase III;Yes;Yes;;A posteriori;Without justification;;No;No;Prostate;;Additional measure of the primary endpoint;No;;;
+Included;Hofman et al.;2024;Phase II;Yes;Yes;;A posteriori;Data-driven;Median follow-up;Yes;Yes;Prostate;;Additional measure of the primary endpoint;No;No;No;
+Excluded;Jalava et al.;2022;Observational study;;;;;;;;;;;;;;;
+Included;James et al.;2022;Phase III (long term survival);Yes;Yes;;;Without justification;;No;Yes;Prostate;108;Additional measure of the primary endpoint;No;;;Yes
+Included;Jhaveri;2025;Phase III;Yes;Yes;;A posteriori;Data-driven;Min max of the obs. time;No;Yes;;19,4;Additional measure of the primary endpoint;No;No;No;Yes
+Included;Jones et al.;2022;Phase III (long term survival);Yes;Yes;;A posteriori;Data-driven;Karisson 1997;No;Yes;Prostate;;Additional measure of the primary endpoint;Yes;;;
+Excluded;Kaneko and Narukawa;2018;Meta-analysis;;;;;;;;;;;;;;;
+Excluded;Kang et al.;2022;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Kimani-Murage et al.;2021;RCT;Yes;Yes;;A priori;Based on clinical consideration;;Yes;Yes;Not applicable;;Only measure of the primary endpoint;No;No;No;
+Included;Ledermann et al.;2021;Phase III;Yes;Yes;;A posteriori;Based on clinical consideration;;No;Yes;Ovarian;120;Additional measure of the primary endpoint;No;Yes;No;Yes
+Included;Leppla;2025;RCT;Not tested;No;;A priori;Based on clinical consideration;;Yes;Yes;;;Additional measure of the primary endpoint;No;;;
+Included;Lim et al.;2024;Phase III;Yes;Yes;;A priori;Based on clinical consideration;;Yes;Yes;Mesothelioma;24;Additional measure of the primary endpoint;No;No;No;
+Included;Louis et al.;2023;RCT;Not tested;No;;A priori;Based on clinical consideration;;Yes;Yes;Not applicable;24;Additional measure of the primary endpoint;No;;;Yes
+Excluded;Meirson;2024;Post hoc analysis;;;;;;;;;;;;;;;
+Excluded;Muruet;2018;Observational study;;;;;;;;;;;;;;;
+Excluded;O'brien;2021;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Ono ;2021;Phase III (long term survival);Not tested;No;;A priori;Based on clinical consideration;;Yes;Yes;Not applicable;60;Additional measure of the primary endpoint;No;;;Yes
+Excluded;Orkaby et al.;2018;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Oude Geerdink E;2025;RCT;Not tested;No;;A priori;Without justification;;No;Yes;Not applicable;18;Additional measure of the primary endpoint;No;;;
+Included;Oza et al.;2015;Phase III;Yes;Yes;;A posteriori;Data-driven;Median follow-up;Yes;Yes;Ovarian;;Additional measure of the primary endpoint;Yes;;;Yes
+Included;Paniagua R;2025;RCT;Yes;Yes;;A posteriori;Without justification;;Yes;Yes;;;Additional measure of the primary endpoint;Yes;;;Yes
+Included;Patel et al.;2024;Phase III (long term survival);Yes;Yes;Delayed;A posteriori;Without justification;;No;Yes;Not applicable;;Additional measure of the primary endpoint;Yes;No;No;Yes
+Included;Peters;2025;Phase III (long term survival);Not tested;No;;A priori;Based on clinical consideration;;Yes;Yes;Lung;;Only measure of the primary endpoint;Yes;;;Yes
+Included;Phillips;2025;Phase III;Yes;Yes;;A posteriori;Without justification;;No;Yes;;;Only measure of the primary endpoint;Yes;;;Yes
+Excluded;Phinyo et al.;2021;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Qin et al.;2023;Phase II;Yes;Yes;;A posteriori;Data-driven;Min max of the obs. time;Yes;Yes;Pancreatic;75;Additional measure of the primary endpoint;No;Yes;No;
+Excluded;Quartagno et al.;2023;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Randon et al.;2024;Phase III;Yes;Yes;early;A posteriori;Without justification;;No;Yes;Gastric;24;Additional measure of the primary endpoint;No;;;
+Excluded;Rocconi et al.;2021;Post hoc analysis;;;;;;;;;;;;;;;
+Excluded;Roy et al.;2020;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Ruiz-Vico;2025;Phase III;Yes;Yes;;A priori;Based on clinical consideration;;Yes;Yes;;;Additional measure of the primary endpoint;No;Yes;Yes;
+Excluded;Saad;2025;Post hoc analysis;;;;;;;;;;;;;;;
+Excluded;Salazar-Camelo A;2025;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Sanchis;2023;RCT;Yes;No;;A priori;Administrative censoring;;No;Yes;;;Additional measure of the primary endpoint;Yes;;;
+Excluded;Sanchis;2025;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Sartor et al.;2023;Phase III (long term survival);Yes;Yes;;A posteriori;Based on clinical consideration;;Yes;Yes;Prostate;;Additional measure of the primary endpoint;No;;;Yes
+Included;Sawaki et al.;2020;RCT;Not tested;No;;A priori;Based on clinical consideration;;Yes;Yes;Breast;;Additional measure of the primary endpoint;Yes;Yes;Yes;Yes
+Excluded;Shi et al.;2021;Post hoc analysis;;;;;;;;;;;;;;;
+Excluded;Shi et al.;2023;RMST was not a measure of the treatment effect;;;;;;;;;;;;;;;
+Excluded;Song et al. ;2019;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Spicer et al.;2024;Phase III;Yes;Yes;;A posteriori;Without justification;;No;Yes;Lung;60;Additional measure of the primary endpoint;No;Yes;No;Yes
+Included;Tanguturi;2025;RCT;Yes;No;;A priori;Based on clinical consideration;;Yes;Yes;;;Additional measure of the primary endpoint;No;Yes;Yes;Yes
+Excluded;Le Vilain-Abraham et al.;2023;Post hoc analysis;;;;;;;;;;;;;;;
+Included;Villiger et al.;2016;Phase II;Not tested;No;;A priori;Based on clinical consideration;;Yes;Yes;Rheumatology;;Additional measure of the primary endpoint;No;;;Yes
+Included;Wilson et al.;2017;RCT;Not tested;No;;A priori;Based on clinical consideration;;Yes;Yes;Infectious diseases;;Additional measure of the primary endpoint;Yes;Yes;Yes;Yes
+Excluded;Wilson et al.;2019;Same data;;;;;;;;;;;;;;;Yes
+Included;Yan;2025;Phase IV;Yes;Yes;;;Without justification;;No;Yes;;;Additional measure of the primary endpoint;No;;;
+Included;Yaowalaorng;2025;RCT;Yes;No;;A priori;Based on clinical consideration;;No;Yes;;;Additional measure of the primary endpoint;Yes;No;Yes;
+Included;Zaanan ;2025;Phase III;Yes;Yes;;A priori;Based on clinical consideration;;No;Yes;;;Additional measure of the primary endpoint;No;Yes;No;Yes
+Included;Zhang;2025;Phase III (long term survival);Yes;Yes;;A priori;Based on clinical consideration;;Yes;Yes;;60;Additional measure of the primary endpoint;No;;;Yes
